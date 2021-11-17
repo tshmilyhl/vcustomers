@@ -1,6 +1,8 @@
 <template>
-<div class="about">
-  About
+<div class="about container">
+ <h1 class="page-header">
+   关于我们
+ </h1>
 </div>
 </template>
 
