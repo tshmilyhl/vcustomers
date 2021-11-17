@@ -2,9 +2,9 @@
  <div class="customers container">
    <alert :message="alert"></alert>
    <h1 class="page-header">用户管理系统</h1>
-
+<!--   搜索功能-->
    <input type="text"class="form-control" placeholder="搜索" v-model="filterInput">
-   <br>
+   <br/>
    <table class="table table-striped">
      <thead>
      <tr>
